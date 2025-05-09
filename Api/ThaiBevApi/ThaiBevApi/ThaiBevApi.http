@@ -1,0 +1,6 @@
+@ThaiBevApi_HostAddress = http://localhost:5125
+
+GET {{ThaiBevApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
